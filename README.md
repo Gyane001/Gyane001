@@ -1,33 +1,33 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-# 👋 Olá, eu sou a Gyane!
 
-Tenho 19 anos e sou estudante de **Programação em Game Developer** e **Full Stack em JavaScript**.  
-Atualmente curso **FIAP - São Paulo** e trabalho na **BOLD** na área de **Governança de TI**.
+<p align="left"> 
+  Olá me chamo Gyane, tenho 19 anos e sou estudante de programação em <strong>Game Developer e Full Stack em JS</strong>.<br>
+  Atualmente estudo na FIAP SP, e trabalho na bold na área de governança de TI.
+</p>
 
----
+<p align="left">
+  🦄 Linguagens: JS, CSS, HTML e C#.
+</p>
 
-## 🦄 Linguagens
-- JavaScript
-- CSS
-- HTML
-- C#
+<p align="left">
+  💼 Ferramentas: VS Code, Unity, GitHub.
+</p>
 
-## 💼 Ferramentas
-- VS Code
-- Unity
-- GitHub
-
-## 📜 Certificados
-- Curso de Lógica de Programação – Alura  
-- Curso de HTML e CSS – Alura  
+# 📜 Certificados
+- Web & Game Developing – FIAP 
 - Curso de JavaScript para Web – Alura  
-- Introdução à Programação com C# – Microsoft Learn  
-- Fundamentos de Desenvolvimento de Jogos com Unity – Udemy / Alura *(adicione aqui os que você tiver)*
+- Lógica de programação - Alura, FIAP   
+- Fundamentos para uma Carreira em IA Generativa - Microsoft, Ja WorlWibe
 
----
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato comigo: ⤵
+</p>
 
-## 💌 Entre em Contato
-
-- [Gmail](mailto:seuemail@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-
+<p align="left">
+ <a href="mailto:gyanegg@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ <a href="https://www.linkedin.com/in/gyane-gonzaga-552909254" title="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://wa.me/5547992097869?text=Ol%C3%A1!%20Encontrei%20seu%20portf%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA%20sobre%20seu%20trabalho." title="WhatsApp" target="_blank"> 
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
