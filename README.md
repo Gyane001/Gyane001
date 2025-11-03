@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá me chamo Gyane, tenho 19 anos e sou estudante de programação em <strong>Game Developer</strong>.<br>
+  Olá me chamo Gyane, tenho 19 anos e sou estudante de <strong>Game Developer</strong>.<br>
   Atualmente estudo na FIAP SP, e trabalho na WEG como estágiária em sistemas de TI.
 </p>
 
