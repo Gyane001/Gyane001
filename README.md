@@ -2,10 +2,11 @@
 
 <p align="left"> 
   Olá me chamo Gyane, tenho 20 anos e sou estudante de <strong>Game Developer</strong>.<br>
-Formada na faculdade de game development na FIAP, e atuando na empresa WEG, busco criar materiais que tragam conhecimento, treinamento e/ou diversão. 
+Formada na faculdade de game development na FIAP, e atuando na empresa WEG como estágiaria de sistemas TI, busco criar materiais que tragam conhecimento, treinamento e/ou diversão. 
 
 Tenho alguns projetos publicados, utilizo ferramentas como Unity, Blender, Figma, Canva, VS Code entre outros...
-Possuo fluência em inglês, conhecimento básico de espanhol. 
+Tenho experiencia com WEB development, edição de vídeo, ferramentas de design, e redes sociais.
+Possuo fluência em inglês, e conhecimento básico de espanhol. 
 
 Meu portfólio está disponível em Itch.io e GitHub.
 </p>
