@@ -19,8 +19,7 @@ Meu portfólio está disponível em Itch.io e GitHub.
 </p>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gyane001=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub de Gyane001](https://github-readme-stats.vercel.app/api?username=Gyane001&show_icons=true&theme=dracula)
 
 
 <p align="left">
