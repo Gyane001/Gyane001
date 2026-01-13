@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center"> 
+<p align="left"> 
   Olá me chamo Gyane, tenho 20 anos e sou estudante de <strong>Game Developer</strong>.<br>
 Formada na faculdade de <strong>Game Development na FIAP SP</strong>, e atuando na empresa <strong>WEG como estágiaria de sistemas TI</strong>, busco criar materiais que tragam conhecimento, treinamento e/ou diversão. 
 
-<p align="center"> Tenho alguns projetos publicados, utilizo ferramentas como Unity, Blender, Figma, Canva, GIT e GITHUB entre outros...
+<p align="left"> Tenho alguns projetos publicados, utilizo ferramentas como Unity, Blender, Figma, Canva, GIT e GITHUB entre outros...
 Tenho experiencia com WEB development, edição de vídeo, ferramentas de design, e redes sociais.
 Possuo fluência em inglês, e conhecimento básico de espanhol. 
 
@@ -15,8 +15,8 @@ Possuo fluência em inglês, e conhecimento básico de espanhol.
 <p align="left">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
