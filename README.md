@@ -10,7 +10,7 @@ Possuo fluência em inglês, e conhecimento básico de espanhol.
 
 <strong>Meu portfólio está disponível em Itch.io e GitHub.</strong>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyane-gonzaga-552909254/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)]([[https://SEU-USUARIO.itch.io](https://gyane.itch.io/](https://gyane.itch.io/)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyane-gonzaga-552909254/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://gyane.itch.io/)
 
 <p align="left">
 </p>
