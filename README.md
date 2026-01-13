@@ -7,7 +7,7 @@ Formada na faculdade de <strong>Game Development na FIAP SP</strong>, e atuando 
 <p align="left"> Tenho alguns projetos publicados, utilizo ferramentas como Unity, Blender, Figma, Canva, GIT e GITHUB entre outros...
 Tenho experiencia com WEB development, edição de vídeo, ferramentas de design, e redes sociais.
 Possuo fluência em inglês, e conhecimento básico de espanhol. 
-
+  
 <strong>Meu portfólio está disponível em Itch.io e GitHub.</strong>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyane-gonzaga-552909254/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://gyane.itch.io/)
