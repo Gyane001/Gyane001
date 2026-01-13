@@ -1,23 +1,33 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<p align="center"> 
   Olá me chamo Gyane, tenho 20 anos e sou estudante de <strong>Game Developer</strong>.<br>
-Formada na faculdade de game development na FIAP, e atuando na empresa WEG como estágiaria de sistemas TI, busco criar materiais que tragam conhecimento, treinamento e/ou diversão. 
+Formada na faculdade de <strong>Game Development na FIAP SP</strong>, e atuando na empresa <strong>WEG como estágiaria de sistemas TI</strong>, busco criar materiais que tragam conhecimento, treinamento e/ou diversão. 
 
-Tenho alguns projetos publicados, utilizo ferramentas como Unity, Blender, Figma, Canva, GIT e GITHUB entre outros...
+<p align="center"> Tenho alguns projetos publicados, utilizo ferramentas como Unity, Blender, Figma, Canva, GIT e GITHUB entre outros...
 Tenho experiencia com WEB development, edição de vídeo, ferramentas de design, e redes sociais.
 Possuo fluência em inglês, e conhecimento básico de espanhol. 
 
-Meu portfólio está disponível em Itch.io e GitHub.
+<strong>Meu portfólio está disponível em Itch.io e GitHub.</strong>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyane-gonzaga-552909254/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)]([https://SEU-USUARIO.itch.io](https://gyane.itch.io/))
+
+<p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</div>
 
 ![Linguagens Mais Usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gyane001&layout=compact&theme=dracula)
 
-<p align="left">
+
   💌 Aqui vai uma mensagem para entrar em contato comigo: ⤵
 </p>
 
